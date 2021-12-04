@@ -1,7 +1,7 @@
 ### Olá Eu Sou o joão
 
 - Sou editor de videos
-- Contate-se no email: joãotiktok70@gmail.com
+- Contate-se no email: joaotiktok70@gmail.com
 <div align="center">
   <a href="https://github.com/jonhlinux">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonhlinux&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
