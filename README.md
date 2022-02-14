@@ -8,7 +8,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonhlinux&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="70" width="70" src="https://giveawayoftheday.com/wp-content/uploads/2020/09/ed8ce442a761b3edb29e7e11ea7dd960.png">
+  <img align="center" alt="Rafa-Js" height="70" width="70" src="https://amenys.com/wp-content/uploads/2020/02/c.png">
  
  
    <img align="right" height="150" width="150" src=https://c.tenor.com/CGIHMXu6m_4AAAAM/funny.gif>
