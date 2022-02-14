@@ -1,6 +1,6 @@
 ### Olá Eu Sou o joão
 
-- Sou editor de videos
+- Sou Um Programador Que Sabe Pouca Coisa
 - Contate-se no email: joaotiktok70@gmail.com
 <div align="center">
   <a href="https://github.com/jonhlinux">
