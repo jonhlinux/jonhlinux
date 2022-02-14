@@ -11,7 +11,7 @@
   <img align="center" alt="Rafa-Js" height="70" width="70" src="https://amenys.com/wp-content/uploads/2020/02/c.png">
  
  
-   <img align="right" height="150" width="150" src=https://c.tenor.com/g-ghbmfuaK4AAAAj/jotaro-kujo-dance.gif>
+   <img align="right" height="371" width="498" src=https://c.tenor.com/g-ghbmfuaK4AAAAj/jotaro-kujo-dance.gif>
 </div>
   
 ##
