@@ -8,7 +8,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonhlinux&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="70" width="70" src="https://amenys.com/wp-content/uploads/2020/02/c.png">
+  <img align="center" alt="Rafa-Js" height="70" width="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png">
  
  
    <img align="right" height="150" width="113" src=https://c.tenor.com/g-ghbmfuaK4AAAAj/jotaro-kujo-dance.gif>
